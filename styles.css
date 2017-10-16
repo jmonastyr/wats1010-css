@@ -1,12 +1,26 @@
 /* This is where styles are defined for your page. */
 /* One style is provided as example. */
 h1 {color: green;
-        font-family: arial;}
-h2 {font-family: arial;}
+        font-family: arial;
+        margin-left: 240px;}
+h2 {font-family: arial;
+        margin-left: 240px;}
+p {margin-left: 240px;}
 body {background-image: url("images/sand.jpg");
-        background-color: white;}
+        background-color: white;
+        margin-right: 200px;
+        margin-left: 200px;}
 .poem {list-style-type: none;
         line-height: 200%;
-        background-color: #ff54a1;}
+        background-color: #ff54a1;
+        border-radius: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 260px;}
 img {height: 420px;
-        width: 290px;}
+        width: 290px;
+        border-radius: 15px;}
+.info-links {margin-left: 240px;}
+.social-links {margin-left: 240px;}
+.citation {margin-left: 0px;}
+.page-credits {margin-left: 0px;}
